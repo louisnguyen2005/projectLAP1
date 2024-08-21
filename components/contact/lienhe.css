@@ -1,0 +1,12 @@
+.location{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.location img{
+    object-fit: contain;
+    width: 300px;
+    height: 350px;
+   
+}

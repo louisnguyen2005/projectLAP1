@@ -1,0 +1,16 @@
+.checksize img{
+   height: 60%;
+    width: 1000px;
+    
+}
+
+.checksize{
+    padding: 2rem;
+}
+aside{
+    margin: 10px;
+}
+
+.aside img{
+    width: 600px;
+}

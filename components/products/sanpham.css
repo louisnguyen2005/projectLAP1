@@ -1,0 +1,11 @@
+section{
+    padding: 2rem;
+}
+
+footer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid blue;
+    background-color: aquamarine;
+}

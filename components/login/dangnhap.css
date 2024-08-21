@@ -1,0 +1,12 @@
+.log-in{
+    justify-content:center;
+    align-items:center;
+    display: flex;
+}
+.log-in img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+   
+}
